@@ -2,9 +2,6 @@
      <router-view />
 </template>
 
-<script setup>
-</script>
-
 <style  >
  .search-box {
   width: 100%;
@@ -138,6 +135,4 @@ pre {
 .dropdown-item:hover {
   background-color: #87CEEB;
 }
-
-
 </style>
